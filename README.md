@@ -20,6 +20,9 @@ This is the repository URL.
 
 - https://github.com/classings/technical_test.git
 
+## JDK
+
+Desirable openJDK 21
 
 ## Author
 
